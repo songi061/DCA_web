@@ -1,0 +1,84 @@
+
+        .IDinputSearch
+        {
+
+            display : flex;
+            justify-content:space-around;
+            padding : 50px;
+            
+        }
+        .IDinput
+        {
+
+            display:flex;
+            flex-direction: column;
+            align-items:center;
+        }
+        .ID
+        {
+            font-size:8px
+        }
+        .IDPWbox
+        {
+            height:20px; width:150px;
+        }
+        .LGbutton
+        {
+            display:flex;
+            margin:5px;
+        }
+        .titlebox
+        {
+
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            
+        }
+        .title
+        {
+            display:flex;
+            font-size:50px; color:rgb(233, 48, 146);
+            margin : 0;
+        }
+        .subtitle
+        {
+            display:flex;
+
+            margin: 0;
+        }
+        .search
+        {
+
+            display:flex;
+            align-items:center;
+        }
+        .select
+        {
+
+            display:flex;
+            justify-content:space-evenly;
+        }
+        .selectBox
+        {
+            font-size: 40px;
+            width:200px;
+            justify-content:center;
+        }
+        .sectiontitle
+        {
+            display:flex;
+            justify-content:center;
+            font-size:35px;
+            padding:30px;
+        }
+        .product
+        {
+
+            display:flex;
+            justify-content:space-evenly;
+            margin:30px;
+        }
+       
+        
+ 
